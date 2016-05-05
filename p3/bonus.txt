@@ -1,0 +1,6 @@
+best parameters: numTilings = 24, numTiles = 12x12 = 144 alpha = 0.75/numTilings, lambda = 0.95 all else identical to baseline
+
+baseline preformance:-46327 reward per run, standard error: 248, over 50 runs
+best preformance: -40317 reward per run, standard error: 313, over 100 runs
+
+500 runs of best parameters: -40938 reward per run, standard error: 139, over 500 runs

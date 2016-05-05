@@ -1,0 +1,5 @@
+-learn policy
+-predict value of policy
+-prediction not control
+-average reward
+-implement LSTD

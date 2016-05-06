@@ -1,6 +1,6 @@
 import numpy as np
 
-numTilings = 24
+numTilings = 4
 numTiles = 144
     
 
